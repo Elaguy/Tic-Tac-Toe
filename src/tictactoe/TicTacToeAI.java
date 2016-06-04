@@ -5,7 +5,6 @@ import java.util.Random;
 /*
  * Handles the AI for the Tic Tac Toe game.
  * 
- * Subclass of TicTacToe
  */
 
 public class TicTacToeAI {
