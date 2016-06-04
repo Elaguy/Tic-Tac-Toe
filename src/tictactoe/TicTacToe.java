@@ -6,7 +6,6 @@ import java.util.Scanner;
  * Handles all of the Tic Tac Toe stuff (the board, the marks, etc),
  * and handles the human player.
  * 
- * Superclass of TicTacToeAI
  */
 
 public class TicTacToe {
